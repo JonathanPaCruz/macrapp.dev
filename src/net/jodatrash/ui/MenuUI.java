@@ -1,8 +1,8 @@
 package net.jodatrash.ui;
 
+import java.awt.*;
 import javax.swing.*;
 import javax.swing.text.BadLocationException;
-import java.awt.*;
 
 public class MenuUI {
   public static void show(String hostname) throws BadLocationException {

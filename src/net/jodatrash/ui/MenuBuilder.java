@@ -1,10 +1,9 @@
 package net.jodatrash.ui;
 
-import net.jodatrash.config.AppConfig;
-
+import java.awt.*;
 import javax.swing.*;
 import javax.swing.text.BadLocationException;
-import java.awt.*;
+import net.jodatrash.config.AppConfig;
 
 public class MenuBuilder {
   private final JTextPane textPane;
